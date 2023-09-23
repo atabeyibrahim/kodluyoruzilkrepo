@@ -33,5 +33,3 @@ Pull requestler kabul  edilir.Büyük değişiklikler için, lütfen önce neyi 
 
 
 
-[def]: https://choosealicense.com/licenses/mit/
-[def2]: https://www.google.com.tr/search?q=kodluyoruz&sca_esv=567849538&tbm=isch&source=lnms&sa=X&ved=2ahUKEwinsqOO58CBAxVaUKQEHaHADNYQ_AUoAXoECAIQAw&biw=614&bih=584&dpr=1.56#imgrc=s_9DjRe3FgTwwM
