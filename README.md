@@ -14,7 +14,7 @@ https://github.com/atabeyibrahim/kodluyoruzilkrepo.git
 
 ## Usage
 
-Prejeyi cloneladıktan sonra Visual Studio Code programında açınız.
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
